@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is Experiment 2 GitHub Practice.
+=======
+This is my first GitHub file.
+Experiment 2 completed.
+>>>>>>> 093b864a19a715ab88f066f4b7548cad15eccb2a
